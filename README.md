@@ -11,7 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=AndrelhpSilva&theme=dark&hide_border=false&include_all_commits=false&count_private=false&locale=pt-br)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AndrelhpSilva&theme=dark&hide_border=false&locale=pt-br)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrelhpSilva&langs_count=8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&locale=pt-br)
-username=AndrelhpSilva&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&locale=pt-br)
 
 ### ✍️ Citação de desenvolvedor
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
