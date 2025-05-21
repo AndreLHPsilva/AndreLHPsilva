@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-🔭 No momento estou trabalhando:<br>      Atualmente trabalho como Desenvolvedor Full Stack Pleno na Brasil Card.<br>.<br>🌱 Atualmente estou aprendendo:<br>      Arquitetura de software. Trabalho com Stacks como JavaScript, Node.js/Typescript, PHP/Laravel. Construções de API's RestFul seguindo conceitos como SOLID e Clean Code. Utilização de Clean Architecture e Hexagonal. Criação de interfaces Responsivas utilizando React, Next, HTML, CSS.
+🔭 No momento estou trabalhando:<br>      Atualmente trabalho como Desenvolvedor Full Stack Pleno na Watch Brasil.<br>.<br>🌱 Atualmente estou aprendendo:<br>      Arquitetura de software. Trabalho com Stacks como JavaScript, Node.js/Typescript, PHP/Laravel. Construções de API's RestFul seguindo conceitos como SOLID e Clean Code. Utilização de Clean Architecture e Hexagonal. Criação de interfaces Responsivas utilizando React, Next, HTML, CSS.
 
 
 ## 🌐 Redes Sociais:
